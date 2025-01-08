@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Stacked Up Academy 30 Day Challenge 
 ---
 
